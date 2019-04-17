@@ -31,7 +31,7 @@ The model_file and scale_file generated in the training process must be involved
 leaveoneout.py<br>
 #This script evaluates the model performance by using LeaveOneOut method.<br>
 #The csDMA trained with the ExtraTrees classifier.<br>
-Usage: python {0} training_positive_dataset training_negative_dataset matrix_motif1 matrix_motif2<br>
+Usage: python leaveoneout.py training_positive_dataset training_negative_dataset matrix_motif1 matrix_motif2<br>
 Output: a LeaveOneOut score file will be generate.<br>
 
 feature_selection.py<br>
