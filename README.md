@@ -1,13 +1,10 @@
 # csDMA
-an improved machine-learning based prediction tool for identifying DNA 6mA modifications
+an improved machine-learning based prediction tool for identifying DNA 6mA modifications<br>
 
-classifier_selection.py
-
-#This script is used to select the best classifier.
-
-Usage: python classifier_selection.py train_positive_dataset train_negative_dataset matrix_motif1 matrix_motif2
-
-This script trains five different 6mA prediction models.
+classifier_selection.py<br>
+#This script is used to select the best classifier.<br>
+Usage: python classifier_selection.py train_positive_dataset train_negative_dataset matrix_motif1 matrix_motif2<br>
+This script trains five different 6mA prediction models.<br>
 Including:
      1--RandomForest
      2--GradientBoosting
