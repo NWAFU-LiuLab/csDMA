@@ -12,7 +12,7 @@ Including:<br>
      3--AdaBoost<br>
      4--ExtraTrees<br>
      5--SVM<br>
-     6--a ensemble classifier with the above five methods. <br>
+     6--an ensemble classifier with the above five methods. <br>
 5-fold cross-validation was used to evaluate the performance of different classifier.<br>
 
 csDMA_training.py<br>
