@@ -82,7 +82,7 @@ def main(argv=sys.argv):
 #    grid.fit(X, y)
 #    print("The best parameters are %s with a score of %0.2f"% (grid.best_params_, grid.best_score_))
     
-    fold_path='../mouse_data/fold_five.txt'
+    fold_path='../cross_data/fold_five.txt'
     fold_auc=[]
     fold=[]
     fold_file=open(fold_path,'r')
