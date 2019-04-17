@@ -1,5 +1,6 @@
 # csDMA
 an improved machine-learning based prediction tool for identifying DNA 6mA modifications<br>
+csDMA was implemented in python 2.7
 
 classifier_selection.py<br>
 #This script is used to select the best classifier.<br>
